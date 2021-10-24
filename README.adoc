@@ -1,0 +1,40 @@
+=== Verwendete Technologien
+
+Jetpack Compose, Kotlin
+
+
+=== Installation
+
+ Die App wurde mit Android Studio (ArcticFox 3.1) entwickelt. 
+
+** Downloaden und installieren Sie Android Studio (https://developer.android.com/studio). 
+** Klonen Sie das FreezerApp project und öffnen es in Android Studio
+** Die Dependencies werden automatisch geladen.
+
+
+=== Die Aufgabe: MusicPlayer für Deezer
+
+Entwerfen und implementieren Sie einen MusicPlayer für Deezer als native Android App.
+
+Anforderungen:
+
+** Suche nach Interpret, nach Song, Anzeige der Radio-Stations und speichern von Lieblings-Songs.
+** Abspielen, Pausieren von Songs. Nochmaliges Spielen eines Songs von Beginn an. Sprung zum nächsten Song.
+* Verwendung des Deezer-API
+** https://developers.deezer.com/api
+* Das UI ist komplett mit Jetpack Compose zu implementieren.
+** https://developer.android.com/jetpack/compose
+
+
+
+=== Designentwurf (coming soon)
+
+
+
+=== Schriften (coming soon)
+
+
+
+
+=== Autor
+ Gian-Luca C.
